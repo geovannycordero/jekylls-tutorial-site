@@ -9,7 +9,7 @@ Jekyll is a static site generator. You give it text written in your favorite mar
 # Setup
 
 ## Requirements
-- [Ruby](https://www.ruby-lang.org/en/downloads/): version 4.4 or above
+- [Ruby](https://www.ruby-lang.org/en/documentation/installation/): version 4.4 or above
 - [RubyGems](https://rubygems.org/pages/download)
 - [GCC](https://gcc.gnu.org/install/) and [Make](https://www.gnu.org/software/make/)
 - [Bundler](https://rubygems.org/gems/bundler)
